@@ -1,4 +1,6 @@
-# go-cache
+# go-cache   
+-- 下面的Usage不能直接运行。质量堪忧，一不小心可能就掉坑里。
+      star挺多，作者还提到了defer 导致200ns的延迟等问题，技术还是很牛逼的。
 
 go-cache is an in-memory key:value store/cache similar to memcached that is
 suitable for applications running on a single machine. Its major advantage is
